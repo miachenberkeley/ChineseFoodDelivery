@@ -100,14 +100,14 @@
           <img class="round" src="{{ place.photos[0].thumb }}" alt="">
           <div class="item-rating">{{ place.rating }}</div>
           <div class="text-md strong">{{ place.name }}</div>
-          <div class="text-sm secondary">{{ place.district }}</div>
+          <div class="text-sm secondary">{{ place.city }}</div>
           <div class="text-sm secondary">{{ place.cuisines }}</div>
         </ion-col>
       </ion-row>
     </ion-grid>
 
     <div class="block-footer" padding text-right (click)="viewPlaces()">
-      <span color="primary" >跟多 ></span>
+      <span color="primary" >更多 ></span>
     </div>
   </div>
 </ion-content>

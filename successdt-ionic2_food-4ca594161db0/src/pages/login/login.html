@@ -6,18 +6,19 @@
 -->
 <ion-header>
   <ion-navbar color="secondary">
-    <ion-title>Login</ion-title>
+    <ion-title>登入</ion-title>
     <ion-buttons end>
-      <button ion-button (click)="signUp()" class="light">Sign up</button>
+      <button ion-button (click)="signUp()" class="light">登入</button>
     </ion-buttons>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding class="login">
-  <button ion-button color="facebook" block class="margin-bottom">Login via Facebook</button>
-  <button ion-button color="googleplus" block class="margin-top">Login via Google+</button>
+<button  ion-button color="facebook" block class="margin-bottom">用脸书Facebook登入</button>
+  <button  ion-button color="googleplus" block class="margin-middle">用谷歌Google+登入</button>
+  <button  ion-button color="wechat" block class="margin-top">用微信登入</button>
 
-  <div text-center class="margin-top-20 secondary">OR LOGIN USING EMAIL</div>
+  <div text-center class="margin-top-20 secondary">用邮件地址登入</div>
 
   <ion-list class="list-form">
 
@@ -31,7 +32,7 @@
 
   </ion-list>
 
-  <button ion-button color="secondary" block (click)="login()">LOGIN</button>
+  <button ion-button color="secondary" block (click)="login()">登入</button>
 
-  <div text-center class="margin-top-20 secondary" (click)="forgotPwd()">Forgot password?</div>
+  <div text-center class="margin-top-20 secondary" (click)="forgotPwd()">忘记密码了</div>
 </ion-content>

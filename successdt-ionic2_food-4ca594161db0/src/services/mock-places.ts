@@ -154,9 +154,9 @@ export let PLACES = [
   },
   {
     id: 2,
-    name: "Lombardi's Pizza",
+    name: "小嘉兴粽子",
     district: "Nolita",
-    city: "New York City",
+    city: "巴黎",
     website: "http://daoduythanh.com",
     phone: "+84988888888",
     num_reviews: 193,
@@ -167,7 +167,7 @@ export let PLACES = [
     bookmarked: false,
     address: "231W 46th street, New York",
     rating: 4.1,
-    cuisines: "Pizza",
+    cuisines: "嘉兴菜",
     cost: 20,
     accepted_card: 1,
     accepted_cash: 1,
@@ -307,9 +307,9 @@ export let PLACES = [
   },
   {
     id: 3,
-    name: "Domino Pizza",
+    name: "青蚨凉皮",
     district: "Nolita",
-    city: "New York City",
+    city: "巴黎",
     website: "http://daoduythanh.com",
     phone: "+84988888888",
     num_reviews: 193,
@@ -320,7 +320,7 @@ export let PLACES = [
     bookmarked: false,
     address: "231W 46th street, New York",
     rating: 4.5,
-    cuisines: "Pizza",
+    cuisines: "小摊菜",
     cost: 20,
     accepted_card: 1,
     accepted_cash: 1,
@@ -437,9 +437,9 @@ export let PLACES = [
     ],
     photos: [
       {
-        thumb: "assets/img/menu/r6_thumb.jpg",
-        full_size: "assets/img/menu/r6.jpg",
-        description: ""
+        thumb: "assets/img/menu/凉皮.jpeg",
+        full_size: "assets/img/menu/凉皮.jpeg",
+        description: "麻辣口味凉皮，牛肉凉口味皮以及乡巴佬卤蛋"
       },
       {
         thumb: "assets/img/menu/r2_thumb.jpg",

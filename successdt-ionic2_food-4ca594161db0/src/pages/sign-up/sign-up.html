@@ -6,33 +6,34 @@
 -->
 <ion-header>
   <ion-navbar color="secondary" >
-    <ion-title>SignUp</ion-title>
+    <ion-title>登入</ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding class="sign-up">
-  <button  ion-button color="facebook" block class="margin-bottom">Sign up via Facebook</button>
-  <button  ion-button color="googleplus" block class="margin-top">Sign up Google+</button>
+  <button  ion-button color="facebook" block class="margin-bottom">用脸书Facebook注册</button>
+  <button  ion-button color="googleplus" block class="margin-middle">用谷歌Google注册</button>
+  <button  ion-button color="wechat" block class="margin-top">用微信注册</button>
 
-  <div text-center class="margin-top-20 secondary">OR SIGN UP USING EMAIL</div>
+  <div text-center class="margin-top-20 secondary">用邮件地址注册</div>
 
   <ion-list class="list-form">
 
     <ion-item class="margin-top">
-      <ion-input type="text" placeholder="Name"></ion-input>
+      <ion-input type="text" placeholder="名字"></ion-input>
     </ion-item>
 
     <ion-item class="margin-top">
-      <ion-input type="text" placeholder="Email or username"></ion-input>
+      <ion-input type="text" placeholder="邮件地址"></ion-input>
     </ion-item>
 
     <ion-item class="margin-top">
-      <ion-input type="password" placeholder="Password"></ion-input>
+      <ion-input type="password" placeholder="密码"></ion-input>
     </ion-item>
 
   </ion-list>
 
-  <button  ion-button color="secondary"  block (click)="signUp()">SIGN UP</button>
+  <button  ion-button color="secondary"  block (click)="signUp()">注册</button>
 
-  <div text-center class="margin-top-20 secondary" (click)="forgotPwd()">Forgot password?</div>
+  <div text-center class="margin-top-20 secondary" (click)="forgotPwd()">忘记密码了</div>
 </ion-content>
