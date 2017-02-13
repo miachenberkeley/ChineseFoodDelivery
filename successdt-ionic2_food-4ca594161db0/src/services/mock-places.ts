@@ -1,7 +1,7 @@
 export let PLACES = [
   {
     id: 1,
-    name: "陈妈麻辣点",
+    name: "陈妈麻辣店",
     district: "Theater District",
     city: "巴黎",
     website: "http://daoduythanh.com",
@@ -52,22 +52,27 @@ export let PLACES = [
     menu: [
       {
         id: 1,
-        name: "Soup",
+        name: "麻辣系列",
         items: [
           {
             id: 1,
-            name: "Pasta Fagioli Soup",
-            price: 4.95
+            name: "兔头",
+            price: 5
           },
           {
             id: 2,
-            name: "3 Bean Chili Soup with Sour Cream",
-            price: 5.95
+            name: "兔丁",
+            price: 5
           },
           {
             id: 3,
-            name: "Soup of the day",
-            price: 4.95
+            name: "鸭头",
+            price: 4
+          },
+          {
+            id: 4,
+            name: "鸭舌",
+            price: 8
           }
         ]
       },
@@ -132,22 +137,22 @@ export let PLACES = [
     photos: [
       {
         thumb: "assets/img/四川.JPG",
-        full_size: "assets/img/menu/r1.jpg",
+        full_size: "assets/img/四川.jpg",
         description: ""
       },
       {
-        thumb: "assets/img/menu/r2_thumb.jpg",
-        full_size: "assets/img/menu/r2.jpg",
+        thumb: "assets/img/menu/鸡头.jpg",
+        full_size: "assets/img/menu/鸡头.jpg",
         description: ""
       },
       {
-        thumb: "assets/img/menu/r3_thumb.jpg",
-        full_size: "assets/img/menu/r3.jpg",
+        thumb: "assets/img/menu/鸡脖.jpg",
+        full_size: "assets/img/menu/鸡脖.jpg",
         description: ""
       },
       {
-        thumb: "assets/img/menu/r4_thumb.jpg",
-        full_size: "assets/img/menu/r4.jpg",
+        thumb: "assets/img/menu/麻辣鸡爪.jpg",
+        full_size: "assets/img/menu/麻辣鸡爪.jpg",
         description: ""
       }
     ]

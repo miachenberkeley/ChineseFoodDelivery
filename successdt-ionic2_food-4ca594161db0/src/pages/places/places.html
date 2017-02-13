@@ -7,7 +7,7 @@
 
 <ion-header>
   <ion-navbar color="primary" >
-    <ion-title>Places</ion-title>
+    <ion-title>外卖小店</ion-title>
 
     <ion-buttons end>
       <button  ion-button (click)="goToSearch()">
@@ -36,24 +36,24 @@
 
       <!-- extra info -->
       <div class="text-sm secondary" padding-bottom>
-        {{ place.num_reviews }} Reviews &bull;
-        {{ place.num_bookmarks }} Bookmarks &bull;
-        {{ place.num_check_in }} Been There
+        {{ place.num_reviews }} 评价 &bull;
+        {{ place.num_bookmarks }} 加到我到最爱 &bull;
+        {{ place.num_check_in }} 我到这里来过
       </div>
     </ion-card-header>
 
     <ion-card-content>
       <ion-grid>
         <ion-row>
-          <ion-col width-33 class="secondary">Cuisines</ion-col>
+          <ion-col width-33 class="secondary">特色</ion-col>
           <ion-col width-66>{{ place.cuisines }}</ion-col>
         </ion-row>
         <ion-row>
-          <ion-col width-33 class="secondary">Cost</ion-col>
+          <ion-col width-33 class="secondary">价格</ion-col>
           <ion-col width-66>{{ place.cost }}</ion-col>
         </ion-row>
         <ion-row>
-          <ion-col width-33 class="secondary">Hours</ion-col>
+          <ion-col width-33 class="secondary">开放时间</ion-col>
           <ion-col width-66>{{ getWorkingHours(place.working_hours) }}</ion-col>
         </ion-row>
         <ion-row>

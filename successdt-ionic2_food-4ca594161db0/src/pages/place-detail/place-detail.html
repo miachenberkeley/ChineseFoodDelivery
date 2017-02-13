@@ -30,7 +30,7 @@
 
         <div class="pull-right" text-right>
           <div class="rating">{{ place.rating }}</div>
-          <div>{{ place.num_votes }} votes</div>
+          <div>{{ place.num_votes }} 票</div>
         </div>
 
         <div class="clear"></div>
@@ -39,7 +39,7 @@
       <div margin-top>
         <ion-badge color="favorite"  [hidden]="!workingHour.available">开门了</ion-badge>
         <ion-badge color="primary"  [hidden]="workingHour.available">关门了</ion-badge>
-        {{ workingHour.from }}h to {{ workingHour.to }}h
+        {{ workingHour.from }}点 到 {{ workingHour.to }}点
         <div>
           {{ place.num_reviews }} 评价 &bull;
           {{ place.num_photos }} 照片
@@ -93,7 +93,7 @@
 
   <!-- photos -->
   <div padding class="light-bg margin-top-20">
-    <div class="strong">Photos</div>
+    <div class="strong">照片</div>
 
     <ion-grid class="grid-no-padding">
       <ion-row>
@@ -104,18 +104,18 @@
     </ion-grid>
 
     <button  ion-button color="favorite"  block>
-      Add photo
+      加照片
     </button>
   </div>
   <div class="block-footer" padding text-right (click)="goToPhotos()">
-    <span color="primary" >See All Photos</span>
+    <span color="primary" >看所有照片</span>
     <ion-icon color="primary"  name="arrow-forward"></ion-icon>
   </div>
 
   <!-- Reviews -->
   <div padding class="light-bg margin-top-20">
-    <div class="strong">Reviews</div>
-    <div margin-top class="secondary">RECENT REVIEWS</div>
+    <div class="strong">评价</div>
+    <div margin-top class="secondary">最近的评价</div>
     <ion-list class="list-no-border">
       <ion-item *ngFor="let review of place.reviews" text-wrap>
         <ion-avatar item-left>
@@ -123,7 +123,7 @@
         </ion-avatar>
         <div class="strong">{{ review.username }}</div>
         <div class="text-sm">
-          <span class="strong">RATED</span>
+          <span class="strong">打星</span>
           <span class="rating">{{ review.rating }}</span>
           {{ review.comment }}
         </div>
@@ -131,31 +131,30 @@
     </ion-list>
   </div>
   <div class="block-footer" padding text-right (click)="goToReviews()">
-    <span color="primary" >Read All Review({{ place.num_reviews }})</span>
+    <span color="primary" >看所有的评价({{ place.num_reviews }})</span>
     <ion-icon color="primary"  name="arrow-forward"></ion-icon>
   </div>
 
   <!-- Other info -->
   <div padding class="light-bg margin-top-20">
-    <span class="strong">Hours</span>
+    <span class="strong">开放时间</span>
     <ion-badge color="favorite"  [hidden]="!workingHour.available">OPEN NOW</ion-badge>
     <ion-badge color="primary"  [hidden]="workingHour.available">CLOSE NOW</ion-badge>
     <div class="strong">
-      {{ workingHour.from }}h to {{ workingHour.to }}h
+      {{ workingHour.from }}点 到 {{ workingHour.to }}点
     </div>
-    <span color="primary" >View All Days</span>
+    <span color="primary" >View All Da</span>
 
-    <div class="strong" margin-top>Cuisines</div>
+    <div class="strong" margin-top>餐厅</div>
     <div>{{ place.cuisines }}</div>
 
-    <div class="strong" margin-top>Cost</div>
+    <div class="strong" margin-top>最低销售价</div>
     <div>{{ place.cost | currency:'USD':true }}</div>
 
     <div>
       <ion-icon name="card"></ion-icon>
-      <span *ngIf="place.accepted_card && place.accepted_cash">Cash & card accepted</span>
-      <span *ngIf="place.accepted_card && !place.placeaccepted_cash">Card accepted</span>
-      <span *ngIf="!place.accepted_card && place.accepted_cash">Cash accepted</span>
+      <span *ngIf="place.accepted_card && place.accepted_cash">30欧元以上免费送货 ／／</span>
+      <span *ngIf="place.accepted_card && !place.placeaccepted_cash">30欧元一下，4欧元送货费</span>
     </div>
 
     <div class="strong" margin-top>Highlights</div>

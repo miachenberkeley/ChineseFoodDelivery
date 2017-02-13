@@ -2,136 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3488c14c-760e-4790-a1d4-e0eec15ca462" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/SQL/products.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/SQL/users.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/css/angular-carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/McCafe_Classic_coffee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/McCafe_Hazelnut_Cold.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/McSpicy_paneer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/Mcspicy_chicken.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/Smoothie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/big_spicy_chicken_wrap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/big_spicy_paneer_wrap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/chick_mc_grill.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/chicken_maharaja.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/coke.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/coke_zero.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/double_chocolate_frappe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/fanta.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/filet_o_fish.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/iced_splash.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/kinley.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/mc_aloo_tikki.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/mc_cafe_Frappe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/mc_chicken.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/mc_egg_burger.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/mc_veggie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/mccafe_ice_coffee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/mccafe_ice_tea.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/qozsMk71RQCa8iqTAGEr_pro.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/salad_wrap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/slide_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/slide_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/slide_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/sprite.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/thumsup.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/img/veg_maharaja.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/js/controllers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/js/directives.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/js/routes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/js/services.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/css/ionic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/css/ionic.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/fonts/ionicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/fonts/ionicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/fonts/ionicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/fonts/ionicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular-ui/angular-ui-router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular-ui/angular-ui-router.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular/angular-animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular/angular-animate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular/angular-resource.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular/angular-resource.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular/angular-sanitize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular/angular-sanitize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular/angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/angular/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/ionic-angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/ionic-angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/ionic.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/ionic.bundle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/ionic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/js/ionic.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_action-sheet.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_animations.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_backdrop.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_bar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_button-bar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_button.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_checkbox.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_form.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_items.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_loading.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_menu.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_modal.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_platform.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_popover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_popup.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_radio.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_range.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_refresher.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_reset.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_scaffolding.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_select.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_slide-box.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_slides.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_spinner.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_tabs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_toggle.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_transitions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_util.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/ionic.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/ionicons/_ionicons-font.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/ionicons/_ionicons-icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/ionicons/_ionicons-variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/ionicons/ionicons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/scss/tsconfig.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/lib/ionic/version.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/cart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/checkOut.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/editProfile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/favorates.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/filterBy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/myOrders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/payment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/productPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/signup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/public_html/templates/sortBy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/screenshots/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/server_side/food_menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/server_side/signup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic-shopping-cart-2-master/server_side/user-details.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/assets/img/menu/肉.JPG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/home/home.html" afterPath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/home/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/login/login.html" afterPath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/login/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/main-tabs/main-tabs.html" afterPath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/main-tabs/main-tabs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/search/search.html" afterPath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/search/search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/sign-up/sign-up.html" afterPath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/sign-up/sign-up.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/user/user.html" afterPath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/user/user.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/place-detail/place-detail.html" afterPath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/place-detail/place-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/places/places.html" afterPath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/places/places.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-places.ts" afterPath="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-places.ts" />
     </list>
     <ignored path="ChineseFoodDelivery.iws" />
@@ -155,48 +28,38 @@
       <file leaf-file-name="mock-places.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-places.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1902">
-              <caret line="439" column="38" selection-start-line="439" selection-start-column="38" selection-end-line="439" selection-end-column="38" />
+            <state relative-caret-position="165">
+              <caret line="139" column="31" selection-start-line="139" selection-start-column="31" selection-end-line="139" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main-tabs.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/main-tabs/main-tabs.html">
+      <file leaf-file-name="places.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/places/places.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+            <state relative-caret-position="244">
+              <caret line="59" column="72" selection-start-line="59" selection-start-column="66" selection-end-line="59" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/user/user.html">
+      <file leaf-file-name="place-detail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/place-detail/place-detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="316">
+              <caret line="160" column="18" selection-start-line="160" selection-start-column="18" selection-end-line="160" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sign-up.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/sign-up/sign-up.html">
+      <file leaf-file-name="mock-reviews.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-reviews.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/login/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -210,13 +73,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-places.ts" />
         <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/home/home.html" />
         <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/search/search.html" />
         <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/main-tabs/main-tabs.html" />
         <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/user/user.html" />
         <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/sign-up/sign-up.html" />
         <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/login/login.html" />
+        <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/places/places.html" />
+        <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-places.ts" />
+        <option value="$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/place-detail/place-detail.html" />
       </list>
     </option>
   </component>
@@ -250,6 +115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -418,14 +285,64 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="places" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChineseFoodDelivery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChineseFoodDelivery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="successdt-ionic2_food-4ca594161db0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="place-detail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChineseFoodDelivery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChineseFoodDelivery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="successdt-ionic2_food-4ca594161db0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,7 +362,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="741" extended-state="6" />
+    <frame x="0" y="23" width="1366" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -454,7 +371,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13713405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -483,30 +400,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/collection-service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-collections.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/review-service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-places.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -515,89 +408,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/place-service.ts">
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/user/user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/review-service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/collection-service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/place-service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="109" column="31" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/reviews/reviews.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/home/home.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-collections.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/search/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/select-location/select-location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/login/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="120">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding />
         </state>
@@ -611,6 +424,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/collection-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-collections.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/review-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-places.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/place-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/review-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/place-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" column="31" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/reviews/reviews.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/home/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/search/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/select-location/select-location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/main-tabs/main-tabs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/user/user.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -619,18 +534,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-places.ts">
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/sign-up/sign-up.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1902">
-          <caret line="439" column="38" selection-start-line="439" selection-start-column="38" selection-end-line="439" selection-end-column="38" />
+        <state relative-caret-position="420">
+          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/main-tabs/main-tabs.html">
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/login/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+        <state relative-caret-position="45">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/collection-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-collections.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-reviews.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/services/mock-places.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="139" column="31" selection-start-line="139" selection-start-column="31" selection-end-line="139" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/places/places.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="59" column="72" selection-start-line="59" selection-start-column="66" selection-end-line="59" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successdt-ionic2_food-4ca594161db0/src/pages/place-detail/place-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="160" column="18" selection-start-line="160" selection-start-column="18" selection-end-line="160" selection-end-column="18" />
           <folding />
         </state>
       </provider>
